@@ -16,3 +16,7 @@ img {
     height: auto;
 }
 
+button {
+    width: 260px;
+    font-size: 36px;
+}
