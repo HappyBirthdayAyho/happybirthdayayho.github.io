@@ -17,6 +17,9 @@ img {
 }
 
 button {
-    width: 260px;
-    font-size: 36px;
+    width: 300px;
+    font-size: 50px !important;
+    font-weight: bold;
+    height: auto;
 }
+
