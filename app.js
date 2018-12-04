@@ -1,6 +1,6 @@
 $(function() {
     let positions = ["1" , "5", "3", "4", "7" , "9", "1", "6", "8" , "2", "4", "9", "1", "8", "5", "1"];
-    let greetings = ["Цъкни тук", "Цъкни там", "Сега тук", "Сега там", "Ся тук","Ся там", "и тук", "и там", "ама и тук", "много бавно цъкаш", "Бавничък", "Мноо бавно", "harder", "better", "faster", "stronger"];
+    let greetings = ["Цъкни тук", "Цъкни там", "Сега тук", "Сега там", "Ся тук","Ся там", "и тук", "и там", "ама и тук", "Бавен си", "Бавничък", "Мноо бавно", "harder", "better", "faster", "stronger"];
     let buttonColorClass = ["primary", "success", "info", "warning", "success", "danger","primary", "info", "warning", "danger", "success", "primary", "primary", "info", "warning", "danger"];
 
     let currentPosition = 1;
