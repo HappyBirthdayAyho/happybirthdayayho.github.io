@@ -14,7 +14,7 @@ $(function() {
 
         if (currentIndex === 15) {
             $('body').empty();
-            $('body').html(`<img src="cat.jpg"> `);
+            $('body').html(`<img src="cat.jpg"> <br><br> `<img src="cat2.jpg">`);
             return;
         }
 
